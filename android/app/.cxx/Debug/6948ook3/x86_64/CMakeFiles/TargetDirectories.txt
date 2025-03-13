@@ -1,0 +1,2 @@
+C:/Users/MaxwellAdomako/StudioProjects/g12_app/android/app/.cxx/Debug/6948ook3/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/MaxwellAdomako/StudioProjects/g12_app/android/app/.cxx/Debug/6948ook3/x86_64/CMakeFiles/rebuild_cache.dir
